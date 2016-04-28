@@ -12,6 +12,7 @@
 		EEE716D71CD24E8900695C9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE716D51CD24E8900695C9F /* Main.storyboard */; };
 		EEE716D91CD24E8900695C9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE716D81CD24E8900695C9F /* Assets.xcassets */; };
 		EEE716DC1CD24E8900695C9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE716DA1CD24E8900695C9F /* LaunchScreen.storyboard */; };
+		EEE716E41CD2550F00695C9F /* 屏幕快照 2016-04-28 10.05.33.png in Resources */ = {isa = PBXBuildFile; fileRef = EEE716E31CD2550F00695C9F /* 屏幕快照 2016-04-28 10.05.33.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EEE716D81CD24E8900695C9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEE716DB1CD24E8900695C9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEE716DD1CD24E8900695C9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEE716E31CD2550F00695C9F /* 屏幕快照 2016-04-28 10.05.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "屏幕快照 2016-04-28 10.05.33.png"; path = "../../../../../屏幕快照 2016-04-28 10.05.33.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EEE716D31CD24E8900695C9F /* ViewController.swift */,
 				EEE716D51CD24E8900695C9F /* Main.storyboard */,
 				EEE716D81CD24E8900695C9F /* Assets.xcassets */,
+				EEE716E31CD2550F00695C9F /* 屏幕快照 2016-04-28 10.05.33.png */,
 				EEE716DA1CD24E8900695C9F /* LaunchScreen.storyboard */,
 				EEE716DD1CD24E8900695C9F /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				EEE716DC1CD24E8900695C9F /* LaunchScreen.storyboard in Resources */,
 				EEE716D91CD24E8900695C9F /* Assets.xcassets in Resources */,
+				EEE716E41CD2550F00695C9F /* 屏幕快照 2016-04-28 10.05.33.png in Resources */,
 				EEE716D71CD24E8900695C9F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
